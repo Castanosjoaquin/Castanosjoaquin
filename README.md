@@ -15,7 +15,7 @@
 
 <!--Intro start-->
 - 🏫UdeSa
-- 💻Ai engineering
+- 💻Ai engineering student
 - 📚always wanting to learn something new
 
 <h2 align="center">Technologies and Languages</h2>
